@@ -1,6 +1,6 @@
-# doce_samara
+# Doce Samara
 
-A new Flutter project.
+App para pedidos na confeitaria artesanal DoceSamara
 
 ## Getting Started
 
